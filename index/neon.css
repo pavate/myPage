@@ -28,7 +28,7 @@ a{
 }
 a:nth-child(1)
 {
-  filter:hue-rotate(270deg);
+  filter:hue-rotate(180deg);
 }
 a:nth-child(3)
 {
