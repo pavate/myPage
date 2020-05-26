@@ -16,6 +16,7 @@ body{
 }
 .container .card{
   position: relative;
+  text-align: center;
 }
 
 .container .card .face{
